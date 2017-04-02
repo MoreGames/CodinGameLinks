@@ -13,9 +13,9 @@ https://www.codingame.com/forum/t/c-code-bundler/2394
 ## Postmortems
 
 #### Ghost in the Cell
-https://www.codingame.com/blog/finding-the-right-heuristics-to-win/
-https://github.com/Agade09/Agade-Ghost-in-the-Cell-Postmortem/blob/master/Agade_GitC_Postmortem.md
-https://www.codingame.com/forum/t/ghost-in-the-cell-feedback-strategy/2634
+* https://www.codingame.com/blog/finding-the-right-heuristics-to-win/
+* https://github.com/Agade09/Agade-Ghost-in-the-Cell-Postmortem/blob/master/Agade_GitC_Postmortem.md
+* https://www.codingame.com/forum/t/ghost-in-the-cell-feedback-strategy/2634
 
 #### Fantastic Bits
 https://www.codingame.com/blog/best-programmers-reveal-magic-code/
