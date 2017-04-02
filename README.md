@@ -12,29 +12,29 @@ https://www.codingame.com/forum/t/c-code-bundler/2394
 
 ## Postmortems
 
-### Fantastic Bits
+#### Fantastic Bits
 https://www.codingame.com/blog/best-programmers-reveal-magic-code/
 
-### The Accountant
+#### The Accountant
 https://www.codingame.com/blog/how-to-master-accountant-best-strategies/c
 
-### Hypersonic
+#### Hypersonic
 https://www.codingame.com/blog/how-to-master-hypersonic-best-strategies/
 
-### Codebusters
+#### Codebusters
 https://www.codingame.com/blog/the-best-strategies-for-codebusters/
 
-### Smash the Code
+#### Smash the Code
 https://www.codingame.com/blog/ai-of-pb4608-rank-1-in-smash-code/
 
-### Coders Strike Back
+#### Coders Strike Back
 https://www.codingame.com/blog/genetic-algorithms-coders-strike-back-game/
 
 
 ## Other
 
-### Good info:
+#### Good info:
 https://www.codingame.com/blog/how-to-become-legendary-in-multiplayer/
 
-### Toolset
+#### Toolset
 https://github.com/Manwe56/competitive-programming
